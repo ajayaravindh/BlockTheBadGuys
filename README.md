@@ -1,6 +1,6 @@
 # BlockTheBadGuys
 
-**Note:** Only the python notebooks are uploaded. As the size of the webapp is large, I haven't uploaded it.
+**Note:** Only the notebooks are uploaded. As the size of the **webapp** is large, I haven't uploaded it.
 
 Motto: Moving towards an abuse-free online world
 
