@@ -1,4 +1,7 @@
 # BlockTheBadGuys
+
+**Note:** Only the python notebooks are uploaded. As the size of the webapp is large, I haven't uploaded it.
+
 Motto: Moving towards an abuse-free online world
 
 Reason: Over the years internet trolls and abuses have made lot of mishaps which have even resulted in suicides and harassments.This tempted us to find a solution for this problem.
